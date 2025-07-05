@@ -104,7 +104,7 @@ const addAtividadeAtrasada = (atividadeAtrasada, index) => {
   `
 }
 
-// 3
+// arrow function (atividadeConcluida)
 const addAtividadeConcluida = (atividadeConcluida, index) => {
 
   let input = `<input type="checkbox" data-index="${index}" `
